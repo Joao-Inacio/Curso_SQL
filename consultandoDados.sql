@@ -1,4 +1,4 @@
--- Active: 1661344300209@@127.0.0.1@3306@db_curso_web
+-- Active: 1662843662404@@127.0.0.1@3306@db_curso_web
 -- Consultando todas as colunas 
 SELECT * FROM tb_cursos;
 -- Selecionando pelo nomes da colunas
