@@ -1,5 +1,5 @@
 -- Active: 1661344300209@@127.0.0.1@3306
 -- Criando uma base de dados
-CREATE DATABASE db_teste;
+CREATE DATABASE db_curso_web;
 -- Excluido uma base de dados
 DROP DATABASE db_teste;
