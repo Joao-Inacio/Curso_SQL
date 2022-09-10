@@ -1,4 +1,4 @@
--- Active: 1661344300209@@127.0.0.1@3306@db_curso_web
+-- Active: 1662843662404@@127.0.0.1@3306@db_curso_web
 -- Criando e populando uma tabela para teste
 CREATE TABLE tb_alunos (
     id_aluno int,
